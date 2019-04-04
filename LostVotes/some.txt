@@ -1,0 +1,3 @@
+Chganged the Session Variables: LOGIN SERVLET ,LOGIN PAGE, 
+Desgined Back button LOGIN, REGISTER,
+Dashboard code changed
